@@ -58,20 +58,6 @@ uninstall, install 2.0 and import the backup.
 
 Directly to a connected phone: enable USB debugging on the phone and press the green ▶ button in Android Studio.
 
-## Testing vibration
-
-In the app: gear icon at the top right → **"Vibration & Ton testen"**.
-If nothing vibrates there, check whether the phone is on silent without vibration or whether touch feedback /
-vibration for apps is turned off in the Android settings.
-
-## Importing data from the HTML app (FITFLIX)
-
-1. In the HTML app: settings → **export backup** (saves a `.json` file).
-2. Send the file to the phone.
-3. In MirraFit: gear icon → **Importieren** → choose the file.
-
-The format is the same; plan and history are transferred completely.
-
 ## Notes
 
 - The rest timer uses an Android alarm. Sound and vibration also work with the screen off.
